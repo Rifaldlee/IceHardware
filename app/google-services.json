@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243973556240",
+    "project_id": "icehardware-149d4",
+    "storage_bucket": "icehardware-149d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243973556240:android:f9eb3b8efb951bd9fda295",
+        "android_client_info": {
+          "package_name": "com.example.icehardware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243973556240-gs22toohigkg2o38jm9hlemvm3bk06mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8f3nIPBcxeGjY4l3Cbjb_q1CEvnMVGZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243973556240-gs22toohigkg2o38jm9hlemvm3bk06mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
